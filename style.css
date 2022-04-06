@@ -3,6 +3,24 @@ body {
 	font: 16px Arial, helvetica, sans-serif;
 }
 
-#principal {
+.principal {
 	width: 900px;
+}
+
+.menu__principal {
+	background: #C5C5B2;
+	padding: 18px;
+}
+
+.menu__link {
+	color: #46556A;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.conteudo {
+	width: calc(900px - 1.4%);
+	background: #E8E8D9;
+	padding: 10px;
 }

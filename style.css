@@ -24,3 +24,22 @@ body {
 	background: #E8E8D9;
 	padding: 10px;
 }
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+.imagem__campanha {
+	border: 10px solid #c3c3ae;
+}
+
+.contato__contato p {
+	font-size: 13px;
+	margin: 1px;
+}
+
+.rodape {
+	text-align: center;
+	font-size: 12px;
+}
